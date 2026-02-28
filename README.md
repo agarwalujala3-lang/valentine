@@ -8,7 +8,7 @@ Built as a playful yet polished front-end project demonstrating animation timing
 
 ## ✨ Live Demo
 
-🌐 https://YOUR_USERNAME.github.io/valentine/
+🌐 https://agarwalujala3-lang.github.io/VALENTINE-CHAUDHRAIN/
 
 ---
 
