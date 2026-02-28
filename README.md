@@ -53,20 +53,23 @@ No external dependencies.
 
 ## 📂 Project Structure
 
+```
 valentine/
 │
-├── index.html # Main entry file
-├── style.css # Styling and transitions
-├── script.js # Interaction logic
+├── index.html      # Main entry file
+├── style.css       # Styling and transitions
+├── script.js       # Interaction logic
+├── preview.png
 │
 └── images/
-├── i1.png
-├── i3.png
-├── i6.png
-├── i8.png
-├── i10.png
-├── i17.png
-└── v7.mp4
+    ├── i1.png
+    ├── i3.png
+    ├── i6.png
+    ├── i8.png
+    ├── i10.png
+    ├── i17.png
+    └── v7.mp4
+```
 
 
 ---
