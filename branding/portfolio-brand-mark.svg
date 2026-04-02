@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Valentine Experience brand mark</title>
+  <desc id="desc">Rose-toned rounded square mark with VX initials and a small heart gesture.</desc>
+  <defs>
+    <linearGradient id="vxBg" x1="18" y1="18" x2="144" y2="146" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2d1024"/>
+      <stop offset="1" stop-color="#4a1738"/>
+    </linearGradient>
+    <linearGradient id="vxGlow" x1="40" y1="44" x2="120" y2="118" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffb5d0"/>
+      <stop offset="1" stop-color="#ff6a9d"/>
+    </linearGradient>
+  </defs>
+  <rect x="10" y="10" width="140" height="140" rx="34" fill="url(#vxBg)" stroke="#81445e" stroke-width="2"/>
+  <text x="80" y="73" text-anchor="middle" fill="#fff4f8" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="33" font-weight="800" letter-spacing="4">VX</text>
+  <path d="M58 103c0-8 6-14 13-14 4 0 8 2 11 6 3-4 7-6 11-6 7 0 13 6 13 14 0 17-24 30-24 30s-24-13-24-30Z" fill="url(#vxGlow)" opacity="0.92"/>
+</svg>

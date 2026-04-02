@@ -1,0 +1,51 @@
+{
+  "enabled": true,
+  "id": "valentine",
+  "title": "Valentine Interactive Web Experience",
+  "kind": "Creative Interaction Build",
+  "status": "Live",
+  "priority": 70,
+  "featured": false,
+  "lensPriority": {
+    "recruiter": 70,
+    "engineer": 62,
+    "founder": 80,
+    "friend": 98
+  },
+  "tags": ["frontend", "interactive", "live"],
+  "stack": ["HTML", "CSS", "JavaScript"],
+  "summary": "I built this animated single-page interactive experience around media transitions, lightweight logic, and playful emotional design.",
+  "proof": "This project proves personality, interaction design instincts, and my willingness to build something expressive instead of purely utilitarian.",
+  "details": [
+    "I built it around interaction flow, timing, and media-led transitions.",
+    "I later optimized the loading behavior to improve the first render."
+  ],
+  "architecture": [
+    "The interface is driven by a single-page DOM interaction flow.",
+    "JavaScript coordinates transitions and state changes.",
+    "Optimized media loading improved perceived performance."
+  ],
+  "tradeoff": "This build prioritizes memorable interaction and emotional tone over formal system complexity.",
+  "badge": "Interactive concept",
+  "icon": "VX",
+  "iconImage": "https://raw.githubusercontent.com/agarwalujala3-lang/VALENTINE-CHAUDHRAIN/main/branding/portfolio-brand-mark.svg",
+  "lockupImage": "https://raw.githubusercontent.com/agarwalujala3-lang/VALENTINE-CHAUDHRAIN/main/branding/portfolio-brand-lockup.svg",
+  "links": {
+    "live": "https://d3lrcs5kkqcuas.cloudfront.net"
+  },
+  "theme": {
+    "surface1": "rgba(252, 244, 247, 0.96)",
+    "surface2": "rgba(246, 231, 237, 0.94)",
+    "ring": "rgba(168, 92, 118, 0.16)",
+    "glow": "rgba(223, 132, 163, 0.18)",
+    "glowSoft": "rgba(198, 111, 141, 0.18)",
+    "accentStrong": "#9b4968",
+    "accentSoft": "rgba(155, 73, 104, 0.12)",
+    "badgeBg": "rgba(155, 73, 104, 0.09)",
+    "badgeBorder": "rgba(155, 73, 104, 0.16)",
+    "proofBg": "linear-gradient(135deg, rgba(222, 132, 163, 0.14), rgba(188, 92, 124, 0.1))",
+    "signalBg": "rgba(255, 248, 250, 0.76)",
+    "signalBorder": "rgba(168, 92, 118, 0.12)",
+    "iconBg": "linear-gradient(145deg, rgba(255, 235, 242, 1), rgba(246, 214, 225, 0.98))"
+  }
+}

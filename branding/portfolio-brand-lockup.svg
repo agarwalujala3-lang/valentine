@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 180" role="img" aria-labelledby="title desc">
+  <title id="title">Valentine Experience logo</title>
+  <desc id="desc">Valentine Experience wordmark with a rose-toned VX interaction mark.</desc>
+  <defs>
+    <linearGradient id="vxLockBg" x1="28" y1="20" x2="132" y2="144" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2d1024"/>
+      <stop offset="1" stop-color="#4a1738"/>
+    </linearGradient>
+    <linearGradient id="vxLockGlow" x1="40" y1="44" x2="122" y2="120" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffb5d0"/>
+      <stop offset="1" stop-color="#ff6a9d"/>
+    </linearGradient>
+    <linearGradient id="vxLockText" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff7fb"/>
+      <stop offset="1" stop-color="#ffd6e4"/>
+    </linearGradient>
+  </defs>
+  <rect x="20" y="18" width="124" height="124" rx="30" fill="url(#vxLockBg)" stroke="#81445e" stroke-width="2"/>
+  <text x="82" y="80" text-anchor="middle" fill="#fff4f8" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="31" font-weight="800" letter-spacing="4">VX</text>
+  <path d="M53 106c0-7 6-12 12-12 4 0 7 2 10 5 3-3 6-5 10-5 7 0 12 5 12 12 0 14-22 26-22 26s-22-12-22-26Z" fill="url(#vxLockGlow)" opacity="0.94"/>
+  <text x="182" y="82" fill="url(#vxLockText)" font-family="Fraunces, Georgia, serif" font-size="52" font-weight="700">Valentine Experience</text>
+  <text x="184" y="116" fill="#d8aebe" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="22" font-weight="600" letter-spacing="1">interactive story build</text>
+</svg>
